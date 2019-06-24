@@ -1,0 +1,24 @@
+{
+  "name": "ctweek1day1",
+  "version": "1.0.0",
+  "description": "Week 1, Day 1 of Career Track",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noah-puckett/ctweek1day1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noah-puckett/ctweek1day1/issues"
+  },
+  "homepage": "https://github.com/noah-puckett/ctweek1day1#readme",
+  "devDependencies": {
+    "eslint": "^6.0.0",
+    "jest": "^24.8.0"
+  }
+}
